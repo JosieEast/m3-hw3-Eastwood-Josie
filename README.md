@@ -19,6 +19,7 @@ The webpage includes properly structured HTML elements like headings (`h1` to `h
 I have included an image of my Lighthouse report to show the performance and quality checks of the webpage.  
 The Lighthouse report screenshot is saved as:  
 `lighthouse-report.png`
+![Lighthouse Report](lighthouse-report.png)
 
 ## How to View
 
